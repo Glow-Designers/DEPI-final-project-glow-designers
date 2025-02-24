@@ -2,18 +2,22 @@
 Group :  DKH2_DRT2_G1  
 
 Team Name:GLOW Designers
-Our Team :
+# Our Team :
 
--Amany Salah Abdel Aziz 
--Hajar Mohammed Abdel Fattah 
--Heba Gamal Shendi 
--Reham Salama ElSayed
--Reem Osama Mahfouz
+Amany Salah AbdelAziz 
 
-Group Code:
+Hajar Mohammed AbdelFattah 
+
+Heba Gamal Shendi 
+
+Reham Salama ElSayed
+
+Reem Osama Mahfouz
+
+# Group Code:
 DKH2_DRT2_G1
 
-Project Deliverables
+# Project Deliverables
 
- Case Study
+# Case Study
 https://drive.google.com/file/d/13fkCyK8AkF8noBeMzW94liOwDjBZrUzG/view?usp=sharing
