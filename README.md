@@ -20,4 +20,4 @@ DKH2_DRT2_G1
 # Project Deliverables
 
 # Case Study
-https://drive.google.com/file/d/13fkCyK8AkF8noBeMzW94liOwDjBZrUzG/view?usp=sharing
+https://drive.google.com/drive/folders/1Z9lb9YtWlKpKarI9UNxKfzuYpLVFvThY?usp=sharing
